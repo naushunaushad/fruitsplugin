@@ -1,0 +1,6 @@
+name: TestFruits
+type: module
+description: 'TestFruits.'
+package: Example
+# version: VERSION
+core: 8.x

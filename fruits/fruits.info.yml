@@ -1,0 +1,6 @@
+name: Fruits
+type: module
+description: 'Fruits.'
+package: Example
+# version: VERSION
+core: 8.x

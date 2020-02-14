@@ -1,0 +1,4 @@
+services:
+    fruits.fruits_manager:        
+        class: Drupal\fruits\Plugin\FruitsPluginManager
+        parent: default_plugin_manager

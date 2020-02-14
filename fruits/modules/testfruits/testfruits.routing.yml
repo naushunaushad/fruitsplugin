@@ -1,0 +1,6 @@
+testfruits.fruitslist:
+  path: '/testfruits/list'
+  defaults:
+    _controller: '\Drupal\testfruits\Controller\TestFruitsController::getfruitsPage'
+  requirements:
+    _access: 'TRUE'
